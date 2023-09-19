@@ -1,5 +1,5 @@
 # Authentication-Auhtorization
 
-Authentication and authorization system for users with JWT token and bcrypt password encryption and
+Authentication and authorization system for users using JWT token and bcrypt password encryption with
 <br>
-Protected routes with user specific roles.
+Protected routes for user specific roles.
